@@ -1,0 +1,306 @@
+What is the default value of an int variable in Java?
+0
+1
+null
+-1
+1
+Which keyword is used to inherit a class in Java?
+extends
+implements
+super
+this
+1
+Which method is the entry point of a Java program?
+run()
+main()
+start()
+execute()
+2
+Which of the following is not a primitive data type in Java?
+int
+float
+String
+char
+3
+Which operator is used for object creation in Java?
+new
+create
+malloc
+class
+1
+Which collection allows duplicate elements?
+Set
+Map
+List
+TreeSet
+3
+What is the size of int in Java?
+2 bytes
+4 bytes
+8 bytes
+16 bytes
+2
+Which loop executes at least once?
+for
+while
+do-while
+foreach
+3
+Which keyword is used to stop a loop?
+continue
+break
+exit
+return
+2
+Which company developed Java?
+Microsoft
+Apple
+Sun Microsystems
+Google
+3
+What does JVM stand for?
+Java Variable Machine
+Java Virtual Machine
+Java Verified Machine
+Java Value Machine
+2
+Which keyword is used to hide data?
+abstract
+encapsulation
+private
+extends
+3
+Which data structure follows FIFO?
+Stack
+Queue
+Tree
+Graph
+2
+Which data structure follows LIFO?
+Queue
+Array
+Stack
+Linked List
+3
+Which sorting algorithm has O(n²) average complexity?
+Merge Sort
+Bubble Sort
+Quick Sort
+Heap Sort
+2
+Which search algorithm requires sorted data?
+Linear Search
+Binary Search
+DFS
+BFS
+2
+What is the extension of Java bytecode files?
+.java
+.class
+.jar
+.exe
+2
+Which access modifier is visible everywhere?
+private
+protected
+default
+public
+4
+Which keyword is used for inheritance parent reference?
+this
+parent
+base
+super
+4
+Which package contains Scanner class?
+java.io
+java.util
+java.lang
+java.net
+2
+What is the output type of System.out.println()?
+int
+String
+void
+boolean
+3
+Which exception occurs when dividing by zero?
+ArithmeticException
+IOException
+NullPointerException
+ClassCastException
+1
+What is polymorphism?
+Data hiding
+Multiple forms of same method
+Inheritance only
+Object creation
+2
+Which keyword prevents inheritance?
+static
+final
+private
+const
+2
+Which collection stores unique elements?
+ArrayList
+LinkedList
+HashSet
+Vector
+3
+Which traversal visits root first?
+Inorder
+Postorder
+Preorder
+Level Order
+3
+Which symbol is used for comments in Java?
+#
+//
+<!-- -->
+**
+2
+What is the full form of OOP?
+Object Oriented Programming
+Object Organized Program
+Operation Oriented Programming
+Operational Object Process
+1
+Which keyword creates an interface?
+interface
+implements
+abstract
+extends
+1
+Which method compares strings?
+==
+compare()
+equals()
+match()
+3
+Which memory stores local variables?
+Heap
+Stack
+ROM
+Cache
+2
+Which keyword handles exceptions?
+catch
+error
+exception
+trycatch
+1
+What is the time complexity of Binary Search?
+O(n)
+O(log n)
+O(n²)
+O(1)
+2
+Which collection is synchronized?
+ArrayList
+HashMap
+Vector
+HashSet
+3
+What does SQL stand for?
+Simple Query Language
+Structured Query Language
+Sequential Query Language
+System Query Language
+2
+Which SQL command retrieves data?
+INSERT
+DELETE
+SELECT
+UPDATE
+3
+Which normal form removes partial dependency?
+1NF
+2NF
+3NF
+BCNF
+2
+Which key uniquely identifies a row?
+Foreign Key
+Candidate Key
+Primary Key
+Composite Key
+3
+What does DBMS stand for?
+Database Management System
+Data Base Machine System
+Data Backup Management System
+Database Memory System
+1
+Which protocol is used for web pages?
+FTP
+SMTP
+HTTP
+POP3
+3
+What does IP stand for?
+Internet Process
+Internet Protocol
+Internal Protocol
+Input Protocol
+2
+Which device connects different networks?
+Hub
+Switch
+Router
+Repeater
+3
+Which topology uses a central device?
+Bus
+Ring
+Star
+Mesh
+3
+What does OS stand for?
+Operating System
+Operational System
+Open Software
+Online System
+1
+Which scheduling algorithm gives shortest job first?
+FCFS
+RR
+SJF
+Priority
+3
+Which memory is volatile?
+ROM
+Hard Disk
+RAM
+SSD
+3
+Which symbol is used for logical AND in Java?
+&
+&&
+||
+!
+2
+What is recursion?
+Loop inside loop
+Function calling itself
+Multiple inheritance
+Sorting method
+2
+Which data structure is used in DFS?
+Queue
+Stack
+Array
+Tree
+2
+Which data structure is used in BFS?
+Stack
+Queue
+Array
+Linked List
+2
+Which sorting algorithm is Divide and Conquer?
+Bubble Sort
+Selection Sort
+Merge Sort
+Insertion Sort
+3
